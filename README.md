@@ -1,2 +1,1 @@
-# calculator
-Python Calculator
+A simple yet functional calculator project written in Python. This calculator will be capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division. The aim of the project is to demonstrate fundamental Python skills, including handling user input/output, basic mathematical operations, and logical structuring of a program. This project is ideal for beginners looking to apply and enhance their programming skills.
